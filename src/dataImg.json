@@ -1,9 +1,50 @@
 [
-  "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-v838-monocerotis.jpg?t=tn2400",
-  "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-arp-273.jpg?t=tn2400",
-  "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-carina-nebula.jpg?t=tn2400",
-  "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-eagle-nebula.jpg?t=tn2400",
-  "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-milky-way-bulge.jpg?t=tn2400",
-  "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-bubble-nebula.jpg?t=tn2400",
-  "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-jupiter.jpg?t=tn2400"
+  {
+    "src": "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-v838-monocerotis.jpg?t=tn2400",
+    "text": "Vincent van Gogh's famous painting, is renowned for its bold whorls of light sweeping across a raging night sky. Although this image of the heavens came only from the artist's restless imagination, a new picture from NASA's Hubble Space Telescope bears remarkable similarities to the van Gogh work, complete with never-before-seen spirals of dust swirling across trillions of miles of interstellar space.",
+    "title": "V838 Monocerotis ",
+    "link": "https://hubblesite.org/contents/media/images/2004/10/1491-Image.html"
+  },
+
+  {
+    "src": "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-arp-273.jpg?t=tn2400",
+    "text": "In celebration of the 21st anniversary of the Hubble Space Telescope's deployment into space, astronomers at the Space Telescope Science Institute in Baltimore, Md., pointed Hubble's eye to an especially photogenic group of interacting galaxies called Arp 273.",
+    "title": "Arp 273",
+    "link": "https://hubblesite.org/contents/media/images/2011/11/2836-Image.html"
+  },
+
+  {
+    "src": "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-carina-nebula.jpg?t=tn2400",
+    "text": "In celebration of the 17th anniversary of the launch and deployment of NASA's Hubble Space Telescope, a team of astronomers is releasing one of the largest panoramic images ever taken with Hubble's cameras. It is a 50-light-year-wide view of the central region of the Carina Nebula where a maelstrom of star birth - and death - is taking place.",
+    "title": "The Carina Nebula",
+    "link": "https://hubblesite.org/contents/media/images/2007/16/2099-Image.html"
+  },
+
+  {
+    "src": "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-eagle-nebula.jpg?t=tn2400",
+    "text": "In this Hubble portrait, the giant red nebula (NGC 2014) and its smaller blue neighbor (NGC 2020) are part of a vast star-forming region in the Large Magellanic Cloud, a satellite galaxy of the Milky Way, located 163,000 light-years away. The image is nicknamed the Cosmic Reef, because it resembles an undersea world.",
+    "title": "Hubble Marks 30 Years in Space",
+    "link": "https://hubblesite.org/contents/news-releases/2020/news-2020-16"
+  },
+
+  {
+    "src": "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-milky-way-bulge.jpg?t=tn2400",
+    "text": "Science fiction has been an inspiration to generations of scientists and engineers, and the film series Star Wars is no exception, said John Grunsfeld, astronaut and associate administrator for NASA's Science Mission Directorate. There is no stronger case for the motivational power of real science than the discoveries that come from the Hubble Space Telescope as it unravels the mysteries of the universe.",
+    "title": "Herbig-Haro Jet HH 24",
+    "link": "https://hubblesite.org/contents/media/images/2015/42/3656-Image.html"
+  },
+
+  {
+    "src": "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-bubble-nebula.jpg?t=tn2400",
+    "text": "Astronomers combined several Hubble exposures to assemble the wider view. The towering pillars are about 5 light-years tall. The dark, finger-like feature at bottom right may be a smaller version of the giant pillars. The new image was taken with Hubble's versatile and sharp-eyed Wide Field Camera 3.",
+    "title": "Hubble WFC3",
+    "link": "https://hubblesite.org/contents/media/images/2015/01/3471-Image.html"
+  },
+
+  {
+    "src": "https://hubblesite.org/files/live/sites/hubble/files/home/hubble-30th-anniversary/images/_images/hubble_30th_images/hubble-30th-jupiter.jpg?t=tn2400",
+    "text": "Aging red giant stars coexist with their more plentiful younger cousins, the smaller, white, Sun-like stars, in this crowded region of our galaxys ancient central hub, or bulge. Most of the bright blue stars in the image are probably recently formed stars located in the foreground, in the galaxy's disk. Astronomers studied 10,000 of these Sun-like stars in archival Hubble images over a nine-year period to unearth clues to our galaxys evolution.",
+    "title": "Milky Way Bulge",
+    "link": "https://hubblesite.org/contents/media/images/2018/01/4101-Image.html"
+  }
 ]

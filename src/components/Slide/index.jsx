@@ -1,16 +1,20 @@
+import styles from "./Slide.module.scss";
+
 export default function Slide(props) {
-  const { src } = props;
+  const { src, title, text, link } = props;
 
   return (
     <>
-      <img src={src} />
-      <h2>Title slide</h2>
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem
-        quibusdam sapiente dignissimos explicabo cumque consectetur officia? Sed
-        enim, nulla voluptatum hic, reiciendis repudiandae eaque excepturi at
-        nesciunt voluptatem omnis suscipit.
-      </p>
+      <div className={styles.imgWrapper}>
+        <img className={styles.img} src={src} />
+        <div className={styles.buttonWrapper}>
+          <button className={styles.button}>{"<"}</button>
+          <button className={styles.button}>{">"}</button>
+        </div>
+      </div>
+      <h2>{title}</h2>
+      <p>{text}</p>
+      <a href={link}>{"Learn More >"}</a>
     </>
   );
 }
